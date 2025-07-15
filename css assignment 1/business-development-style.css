@@ -1,0 +1,32 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.profile {
+    height: 400px;
+    width: 500px;
+    background-color: #1DE592;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+
+.profile-body {
+    padding: 100px 0px 0px 40px;
+    line-height: 1rem;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.profile-body p{
+    margin: 30px 0px;
+    font-weight: bold;
+    font-size: small;
+}
+
+.btn{
+    padding: 10px 30px;
+    border: none;
+    font-size: medium;
+    font-weight: 750;
+    border-radius: 20px;
+}
